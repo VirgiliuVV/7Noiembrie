@@ -9,7 +9,7 @@ const multiply = (nr1, nr2) => nr1 * nr2;
 
 const divide = (nr1, nr2) => nr1 / nr2;
 
-console.log(sum());
-console.log(minus());
-console.log(multiply());
-console.log(divide());
+console.log(sum(nr1, nr2));
+console.log(minus(nr1, nr2));
+console.log(multiply(nr1, nr2));
+console.log(divide(nr1, nr2));
